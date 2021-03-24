@@ -1,0 +1,7 @@
+[user]
+    email = me@me.com
+    name = Me
+[help]
+    autoCorrect = -1
+[init]
+    defaultBranch = main
