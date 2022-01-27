@@ -135,28 +135,6 @@
                 "useAcrylic": true
             },
             {
-                "commandline": "cmd.exe /k \"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\Common7\\Tools\\VsDevCmd.bat \"",
-                "guid": "{a91e9368-8f36-40d3-809a-ac2ae068ce47}",
-                "hidden": false,
-                "icon": "ms-appx:///ProfileIcons/{0caa0dad-35be-5f56-a8ff-afceeeaa6101}.png",
-                "name": "Developer Command Prompt VS2019",
-                "useAcrylic": true
-            },
-            {
-                "colorScheme": "Frost",
-                "commandline": "pwsh.exe -noe -c \"&\" {\"Import-Module\" \"\"\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\Common7\\Tools\\Microsoft.VisualStudio.DevShell.dll\"\"\"\";\" \"Enter-VsDevShell\" \"9ab96df8\"}",
-                "cursorColor": "#000000",
-                "font": 
-                {
-                    "face": "Cascadia Code PL"
-                },
-                "guid": "{8a297558-18bf-4f0a-9969-4928de00e130}",
-                "icon": "ms-appx:///ProfileIcons/pwsh.png",
-                "name": "Developer Powershell VS2019",
-                "opacity": 70,
-                "useAcrylic": true
-            },
-            {
                 "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
                 "hidden": false,
                 "name": "Debian",
